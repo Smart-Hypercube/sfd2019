@@ -6,7 +6,7 @@ template: default
 .author[王子博]
 .footnote[
   [源文件](https://github.com/Smart-Hypercube/sfd2019)
-  [幻灯片](http://0x01.me/sfd2019)
+  [幻灯片](https://0x01.me/sfd2019/)
   [寻找存档](https://lug.ustc.edu.cn/)
 ]
 
